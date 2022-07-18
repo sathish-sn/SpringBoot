@@ -1,15 +1,13 @@
-package com.mock.mockitoDemo.mockitodemo;
+package com.example.udemy.jdbc.SpringUdemyjdbc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MockitoDemoApplication {
+public class SpringUdemyJdbcApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MockitoDemoApplication.class, args);
-		int[ ] num = {1,4,8,6,3};
-		//int res = 
+		SpringApplication.run(SpringUdemyJdbcApplication.class, args);
 	}
 
 }

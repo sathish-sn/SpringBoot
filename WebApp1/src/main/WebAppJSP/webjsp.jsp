@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>myWeb</title>
+<title>First Application</title>
 </head>
 <body>
-First Web Application
+this is my first Application
 </body>
 </html>
